@@ -1,0 +1,8 @@
+a=int(input("ENter the value of A:"))
+b=int(input("ENter the value of B:"))
+print("Sum is",(a+b))
+print("Subracttion is",(a-b))
+print("Multiplication is",(a*b))
+print("Division is",(a/b))
+print("Expoxponent is:",(a**b))
+print("Floor division is",(a//b))

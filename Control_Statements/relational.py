@@ -1,0 +1,8 @@
+a=int(input("ENter the value of A:"))
+b=int(input("ENter the value of B:"))
+print(a==b)
+print(a!=b)
+print(a>b)
+print(a>=b)
+print(a<b)
+print(a<=b)
